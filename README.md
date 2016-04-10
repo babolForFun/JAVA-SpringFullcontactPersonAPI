@@ -1,6 +1,6 @@
 # JAVA-SpringFullcontactPersonAPI
 
-Integration of PayPal API using PayPal REST API
+Integration of Full Contact Person API using REST API
 
   - Spring 4.2.5
   - Eclipse Java EE Mars.2
